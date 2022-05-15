@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+
+svg {
+    /* border: solid black 1px; */
+    width: 80%;
+    margin-top: 50px;
+}
+
+#uk_x5F_thumbnail,
+#bell_x5F_thumbnail,
+#tree_x5F_thumbnail,
+#burger_x5F_thumbnail:hover {
+    cursor: pointer;
+}
